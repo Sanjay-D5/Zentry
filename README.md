@@ -19,7 +19,7 @@ Zentry is designed to demonstrate the power of ReactJS in creating dynamic and u
 - Interactive and visually appealing animations
 
 ## Live Demo
-Explore the application: [Zentry Live](link-to-live-demo)
+Explore the application: [Zentry Live](https://zentry-blue-kappa.vercel.app/)
 
 ## Technologies Used
 - ReactJS
