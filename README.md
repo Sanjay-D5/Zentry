@@ -30,8 +30,7 @@ Explore the application: [Zentry Live](https://zentry-blue-kappa.vercel.app/)
 
 ## Screenshots
 ### Landing Page
-![Landing Page Screenshot](![image](https://github.com/user-attachments/assets/d4b414ec-6e68-4204-855d-0307e2205702)
-)
+![image](https://github.com/user-attachments/assets/d4b414ec-6e68-4204-855d-0307e2205702)
 
 ## Future Enhancements
 - Add backend integration for dynamic content
