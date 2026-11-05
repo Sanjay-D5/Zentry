@@ -1,5 +1,7 @@
 # Zentry - A Modern Single-Page Application
-Zentry is a sleek and interactive single-page application crafted using ReactJS, designed to provide a seamless and engaging user experience.
+> 📚 **Learning project.** A recreation of the Zentry website, built by following a tutorial while learning **GSAP scroll animations and video-driven hero sections in React**.
+
+Zentry is an animated, single-page landing site built with React, GSAP and Tailwind CSS.
 
 ## Table of Contents
 
@@ -18,11 +20,11 @@ Zentry is designed to demonstrate the power of ReactJS in creating dynamic and u
 
 ## Key Features
 
-- Intuitive and responsive user interface
-- Modular component-based design
-- Smooth navigation with React Router
-- Optimized for performance with React hooks
-- Interactive and visually appealing animations
+- Scroll-triggered animations with GSAP and ScrollTrigger
+- Video hero section with click-to-switch transitions
+- 3D tilt effects on feature cards
+- Animated text reveals
+- Responsive layout with Tailwind CSS
 
 ## ⚙️ Installation & Setup
 
@@ -51,11 +53,11 @@ Explore the application: [Zentry Live](https://zentry-blue-kappa.vercel.app/)
 
 ## Technologies Used
 
-- ReactJS
-- React Router
-- CSS Modules (or any CSS framework used)
-- JavaScript (ES6+)
-- [Other tools or libraries, if any]
+- React
+- GSAP (@gsap/react)
+- Tailwind CSS
+- Vite
+- react-icons, react-use
 
 ## Screenshots
 
